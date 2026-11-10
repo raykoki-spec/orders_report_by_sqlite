@@ -8,7 +8,7 @@ A Python script that automates summary generation which used to take the sales m
 - Formats 5 clear questions which the sales manager asks every Monday morning
 - Creates a summary indicating:
       All orders from Mombasa county,
-      Top orders by ttotal value,
+      Top orders by total value,
       Total revenue per county,
       All pending orders over KES 50000,
       The 3 best selling products by quantity.
@@ -50,7 +50,7 @@ def main():
   county  total_revenue
  Mombasa       170500.0
  Nairobi       139600.0
- Eldoret       101300.0``
+ Eldoret       101300.0
 
 ```
 
